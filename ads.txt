@@ -1817,3 +1817,4 @@
 0.0.0.0    zro56hd6szoy.com
 0.0.0.0    zuphaims.com
 0.0.0.0    zyf03k.xyz
+0.0.0.0    v2.vandervort.link
