@@ -1818,3 +1818,5 @@
 0.0.0.0    zuphaims.com
 0.0.0.0    zyf03k.xyz
 0.0.0.0    v2.vandervort.link
+0.0.0.0    franecki.net
+
