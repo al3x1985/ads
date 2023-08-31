@@ -1,0 +1,592 @@
+# Title: bogachenko's Hosts Filter
+# Description: Yet another anti-bullshit filter list.
+# Homepage: https://github.com/bogachenko/filterlist
+# RAW: https://raw.githubusercontent.com/bogachenko/filterlist/main/bogachenkoBL.hosts
+
+# [google.com]
+0.0.0.0 ad.doubleclick.net
+0.0.0.0 ads.google.com
+0.0.0.0 ads.youtube.com
+0.0.0.0 adservice.google.com
+0.0.0.0 api.crashlytics.com
+0.0.0.0 app-measurement.com
+0.0.0.0 beacons.gcp.gvt2.com
+0.0.0.0 beacons.gvt2.com
+0.0.0.0 crashlyticsreports-pa.googleapis.com
+0.0.0.0 doubleclick.net
+0.0.0.0 firebase-settings.crashlytics.com
+0.0.0.0 firebaselogging-pa.googleapis.com
+0.0.0.0 firebaselogging.googleapis.com
+0.0.0.0 footprints-pa.googleapis.com
+0.0.0.0 google-analytics.com
+0.0.0.0 googleadapis.l.google.com
+0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 googleadservices.com
+0.0.0.0 id.google.com
+0.0.0.0 id.google.ru
+0.0.0.0 imasdk.googleapis.com
+0.0.0.0 infinitedata-pa.googleapis.com
+0.0.0.0 m.doubleclick.net
+0.0.0.0 mediavisor.doubleclick.net
+0.0.0.0 pagead.l.doubleclick.net
+0.0.0.0 pagead2.googleadservices.com
+0.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 s.yimg.com
+0.0.0.0 s.youtube.com
+0.0.0.0 securepubads.g.doubleclick.net
+0.0.0.0 settings.crashlytics.com
+0.0.0.0 ssl.google-analytics.com
+0.0.0.0 static.doubleclick.net
+0.0.0.0 www.google-analytics.com
+0.0.0.0 www.googleadservices.com
+0.0.0.0 www.googletagmanager.com
+0.0.0.0 improving.duckduckgo.com
+0.0.0.0 ade.googlesyndication.com
+0.0.0.0 beacons5.gvt3.com
+0.0.0.0 beacons5.gvt2.com
+0.0.0.0 beacons4.gvt3.com
+0.0.0.0 beacons4.gvt2.com
+0.0.0.0 beacons3.gvt3.com
+0.0.0.0 beacons3.gvt2.com
+0.0.0.0 beacons2.gvt3.com
+0.0.0.0 beacons2.gvt2.com
+0.0.0.0 beacons.gvt3.com
+0.0.0.0 beacons.gvt2.com
+
+# [whatsapp.com]
+0.0.0.0 dit.whatsapp.net
+0.0.0.0 crashlogs.whatsapp.net
+
+# [microsoft.com]
+0.0.0.0 browser.pipe.aria.microsoft.com
+0.0.0.0 ic3.events.data.microsoft.com
+0.0.0.0 in.appcenter.ms
+0.0.0.0 self.events.data.microsoft.com
+0.0.0.0 teams.events.data.microsoft.com
+0.0.0.0 config.teams.microsoft.com
+0.0.0.0 browser.events.data.microsoft.com
+0.0.0.0 mobile.events.data.microsoft.com
+0.0.0.0 prod-collecticon.outlookmobile.com
+0.0.0.0 eu-teams.events.data.microsoft.com
+
+# [live.com]
+0.0.0.0 nexus.officeapps.live.com
+0.0.0.0 nexusrules.officeapps.live.com
+
+# [visualstudio.com]
+0.0.0.0 dc-int.services.visualstudio.com
+0.0.0.0 dc.services.visualstudio.com
+
+# [facebook.com]
+0.0.0.0 ads.facebook.com
+0.0.0.0 an.facebook.com
+0.0.0.0 analytics.facebook.com
+0.0.0.0 graph.facebook.com
+0.0.0.0 pixel.facebook.com
+
+# [xiaomi.com]
+0.0.0.0 ad.mi.com
+0.0.0.0 ad.xiaomi.com
+0.0.0.0 adv.sec.intl.miui.com
+0.0.0.0 adv.sec.miui.com
+0.0.0.0 api.accelerator.intl.miui.com
+0.0.0.0 api.ad.intl.xiaomi.com
+0.0.0.0 api.ad.xiaomi.com
+0.0.0.0 api.sec.intl.miui.com
+0.0.0.0 app.chat.xiaomi.net
+0.0.0.0 authbe.sec.intl.miui.com
+0.0.0.0 data.mistat.india.xiaomi.com
+0.0.0.0 data.mistat.intl.xiaomi.com
+0.0.0.0 data.mistat.rus.xiaomi.com
+0.0.0.0 data.mistat.xiaomi.com
+0.0.0.0 data.sec.intl.miui.com
+0.0.0.0 data.sec.miui.com
+0.0.0.0 flash.sec.intl.miui.com
+0.0.0.0 globalapi.ad.xiaomi.com
+0.0.0.0 mitv.tracking.india.miui.com
+0.0.0.0 mitv.tracking.intl.miui.com
+0.0.0.0 mitv.tracking.miui.com
+0.0.0.0 mitv.tracking.rus.miui.com
+0.0.0.0 privacy.api.intl.miui.com
+0.0.0.0 sa.api.intl.miui.com
+0.0.0.0 sdkconfig.ad.eu.xiaomi.com
+0.0.0.0 sdkconfig.ad.india.xiaomi.com
+0.0.0.0 sdkconfig.ad.intl.xiaomi.com
+0.0.0.0 sdkconfig.ad.rus.xiaomi.com
+0.0.0.0 sdkconfig.ad.xiaomi.com
+0.0.0.0 tracking.india.miui.com
+0.0.0.0 tracking.intl.miui.com
+0.0.0.0 tracking.miui.com
+0.0.0.0 tracking.rus.miui.com
+0.0.0.0 www.cdn.ad.xiaomi.com
+0.0.0.0 jupiter.rus.sys.miui.com
+0.0.0.0 jupiter.intl.sys.miui.com
+
+# [mozilla.org]
+0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 probes.telemetry.mozilla.org
+0.0.0.0 telemetry.mozilla.org
+
+# [firefox.com]
+0.0.0.0 detectportal.firefox.com
+
+# [webvisor.com]
+0.0.0.0 u.startup.mobile.webvisor.com
+0.0.0.0 startup.mobile.webvisor.com
+0.0.0.0 webvisor.com
+0.0.0.0 rosenberg.appmetrica.webvisor.com
+0.0.0.0 report.appmetrica.webvisor.com
+0.0.0.0 appmetrica.webvisor.com
+0.0.0.0 mobile.webvisor.com
+
+# [my.com]
+0.0.0.0 ip4.tracker-api.my.com
+0.0.0.0 ip6.tracker-api.my.com
+0.0.0.0 my.com
+0.0.0.0 eu.tracker-api.my.com
+0.0.0.0 ru.tracker-api.my.com
+0.0.0.0 tracker-api.my.com
+0.0.0.0 ip4.ru.tracker-api.my.com
+0.0.0.0 ip6.ru.tracker-api.my.com
+0.0.0.0 ip4.eu.tracker-api.my.com
+0.0.0.0 ip6.eu.tracker-api.my.com
+
+# [appsflyer.com]
+0.0.0.0 appsflyer.com
+0.0.0.0 appsflyersdk.com
+0.0.0.0 trheoi-conversions.appsflyersdk.com
+0.0.0.0 trheoi-cdn-settings.appsflyersdk.com
+0.0.0.0 trheoi-dlsdk.appsflyersdk.com
+0.0.0.0 cdn-settings.appsflyersdk.com
+0.0.0.0 cdn.appsflyer.com
+0.0.0.0 conversions.appsflyer.com
+0.0.0.0 dlsdk.appsflyer.com
+0.0.0.0 inapps.appsflyer.com
+0.0.0.0 register.appsflyersdk.com
+0.0.0.0 launches.appsflyersdk.com
+0.0.0.0 launches.appsflyer.com
+0.0.0.0 gcdsdk.appsflyer.com
+0.0.0.0 register.appsflyer.com
+0.0.0.0 inapps.appsflyersdk.com
+0.0.0.0 conversions.appsflyersdk.com
+0.0.0.0 3bjjlx-inapps.appsflyersdk.com
+0.0.0.0 ezfweb-cdn-settings.appsflyersdk.com
+
+# [branch.io]
+0.0.0.0 api.branch.io
+0.0.0.0 api2.branch.io
+
+# [torrentstream.net]
+0.0.0.0 a1.torrentstream.info
+0.0.0.0 a1.torrentstream.net
+0.0.0.0 a1.torrentstream.org
+0.0.0.0 a2.torrentstream.info
+0.0.0.0 a2.torrentstream.net
+0.0.0.0 a2.torrentstream.org
+0.0.0.0 a3.torrentstream.info
+0.0.0.0 a3.torrentstream.net
+0.0.0.0 a3.torrentstream.org
+0.0.0.0 a4.torrentstream.info
+0.0.0.0 a4.torrentstream.net
+0.0.0.0 a4.torrentstream.org
+0.0.0.0 a5.torrentstream.info
+0.0.0.0 a5.torrentstream.net
+0.0.0.0 a5.torrentstream.org
+0.0.0.0 e1.torrentstream.info
+0.0.0.0 e1.torrentstream.net
+0.0.0.0 e1.torrentstream.org
+0.0.0.0 e2.torrentstream.info
+0.0.0.0 e2.torrentstream.net
+0.0.0.0 e2.torrentstream.org
+0.0.0.0 e3.torrentstream.info
+0.0.0.0 e3.torrentstream.net
+0.0.0.0 e3.torrentstream.org
+0.0.0.0 e4.torrentstream.info
+0.0.0.0 e4.torrentstream.net
+0.0.0.0 e4.torrentstream.org
+0.0.0.0 e5.torrentstream.info
+0.0.0.0 e5.torrentstream.net
+0.0.0.0 e5.torrentstream.org
+0.0.0.0 s1.torrentstream.info
+0.0.0.0 s1.torrentstream.net
+0.0.0.0 s1.torrentstream.org
+0.0.0.0 s2.torrentstream.info
+0.0.0.0 s2.torrentstream.net
+0.0.0.0 s2.torrentstream.org
+0.0.0.0 s3.torrentstream.info
+0.0.0.0 s3.torrentstream.net
+0.0.0.0 s3.torrentstream.org
+0.0.0.0 s4.torrentstream.info
+0.0.0.0 s4.torrentstream.net
+0.0.0.0 s4.torrentstream.org
+0.0.0.0 s5.torrentstream.info
+0.0.0.0 s5.torrentstream.net
+0.0.0.0 s5.torrentstream.org
+
+# [acestream.net]
+0.0.0.0 a1.acestream.net
+0.0.0.0 a2.acestream.net
+0.0.0.0 a3.acestream.net
+0.0.0.0 a4.acestream.net
+0.0.0.0 a5.acestream.net
+0.0.0.0 e1.acestream.net
+0.0.0.0 e2.acestream.net
+0.0.0.0 e3.acestream.net
+0.0.0.0 e4.acestream.net
+0.0.0.0 e5.acestream.net
+0.0.0.0 r.acestream.net
+0.0.0.0 s1.acestream.net
+0.0.0.0 s2.acestream.net
+0.0.0.0 s3.acestream.net
+0.0.0.0 s4.acestream.net
+0.0.0.0 s5.acestream.net
+0.0.0.0 ts.acestream.net
+
+# [sentry.io]
+0.0.0.0 app.getsentry.com
+0.0.0.0 browser.sentry-cdn.com
+0.0.0.0 ingest.sentry.io
+0.0.0.0 sentry-cdn.com
+0.0.0.0 sentry.io
+
+# [adjust.com]
+0.0.0.0 adj.st
+0.0.0.0 adjust.com
+0.0.0.0 adjust.net.in
+0.0.0.0 adjust.world
+0.0.0.0 app.adjust.com
+0.0.0.0 app.adjust.net.in
+0.0.0.0 app.adjust.world
+
+# [samsung.com]
+0.0.0.0 ad.samsungadhub.com
+0.0.0.0 ads.samsungads.com
+0.0.0.0 config.samsungads.com
+0.0.0.0 nmetrics.samsung.com
+0.0.0.0 samsungadhub.com
+0.0.0.0 samsungads.com
+0.0.0.0 smetrics.samsung.com
+
+# [hotjar.com]
+0.0.0.0 api-hotjar.com
+0.0.0.0 hotjar-analytics.com
+0.0.0.0 hotjar.com
+0.0.0.0 static.hotjar.com
+
+# [mail.ru]
+0.0.0.0 ad.mail.ru
+0.0.0.0 r.mradx.net
+0.0.0.0 xray.mail.ru
+0.0.0.0 r0.mail.ru
+0.0.0.0 r0.mradx.net
+0.0.0.0 r3.mail.ru
+0.0.0.0 rs.mail.ru
+0.0.0.0 top-fwz1.mail.ru
+0.0.0.0 m.mradx.net
+
+# [vk.com]
+0.0.0.0 stats.vk-portal.net
+
+# [criteo.com]
+0.0.0.0 criteo.com
+0.0.0.0 gum.criteo.com
+
+# [adfox.ru]
+0.0.0.0 adfox.ru
+0.0.0.0 ads.adfox.ru
+0.0.0.0 banners.adfox.ru
+0.0.0.0 content.adfox.ru
+
+# [amazon.com]
+0.0.0.0 adtago.s3.amazonaws.com
+0.0.0.0 advertising-api-eu.amazon.com
+0.0.0.0 advice-ads.s3.amazonaws.com
+0.0.0.0 affiliationjs.s3.amazonaws.com
+0.0.0.0 amazon-adsystem.com
+0.0.0.0 amazonaax.com
+0.0.0.0 amazonclix.com
+0.0.0.0 analyticsengine.s3.amazonaws.com
+0.0.0.0 assoc-amazon.com
+0.0.0.0 c.amazon-adsystem.com
+0.0.0.0 mads.amazon-adsystem.com
+0.0.0.0 aax-us.amazon-adsystem.com
+0.0.0.0 s.amazon-adsystem.com
+
+# [twitch.tv]
+0.0.0.0 countess.twitch.tv
+0.0.0.0 edge.ads.twitch.tv
+0.0.0.0 spade.twitch.tv
+
+# [shazam.com]
+0.0.0.0 beacon.shazam.com
+
+# [scorecardresearch.com]
+0.0.0.0 scorecardresearch.com
+0.0.0.0 sb.scorecardresearch.com
+0.0.0.0 udm.scorecardresearch.com
+
+# [tns-counter.ru]
+0.0.0.0 tns-counter.ru
+0.0.0.0 www.tns-counter.ru
+
+# [applovin.com]
+0.0.0.0 a.applovin.com
+0.0.0.0 a.applvn.com
+0.0.0.0 a4.applovin.com
+0.0.0.0 applovin.com
+0.0.0.0 applvn.com
+0.0.0.0 assets.applovin.com
+0.0.0.0 d.applovin.com
+0.0.0.0 d.applvn.com
+0.0.0.0 img.applovin.com
+0.0.0.0 ms.applovin.com
+0.0.0.0 ms.applvn.com
+0.0.0.0 pdn.applovin.com
+0.0.0.0 rt.applovin.com
+0.0.0.0 rt.applvn.com
+
+# [appbrain.com]
+0.0.0.0 appbrain.com
+0.0.0.0 sdk.appbrain.com
+
+# [apptornado.com]
+0.0.0.0 apptornado.com
+0.0.0.0 sdk-b.apptornado.com
+
+# [2gis.ru]
+0.0.0.0 advisor.api.2gis.ru
+
+# [amplitude.com]
+0.0.0.0 amplitude.com
+0.0.0.0 api.amplitude.com
+0.0.0.0 api2.amplitude.com
+
+# [relap.io]
+0.0.0.0 relap.io
+
+# [flurry.com]
+0.0.0.0 ad.flurry.com
+0.0.0.0 ads.flurry.com
+0.0.0.0 data.flurry.com
+0.0.0.0 flurry.com
+
+# [indicative.com]
+0.0.0.0 api.indicative.com
+0.0.0.0 indicative.com
+
+# [inmobi.com]
+0.0.0.0 ads.inmobi.com
+0.0.0.0 config.inmobi.com
+0.0.0.0 inmobi.com
+0.0.0.0 telemetry.sdk.inmobi.com
+
+# [adcolony.com]
+0.0.0.0 adc3-assets.adcolony.com
+0.0.0.0 adc3-launch.adcolony.com
+0.0.0.0 adcolony.com
+0.0.0.0 wd.adcolony.com
+
+# [rayjump.com]
+0.0.0.0 analytics.rayjump.com
+0.0.0.0 check.rayjump.com
+0.0.0.0 configure.rayjump.com
+0.0.0.0 hb.rayjump.com
+0.0.0.0 lazy.rayjump.com
+0.0.0.0 net.rayjump.com
+0.0.0.0 policy.rayjump.com
+0.0.0.0 rayjump.com
+
+# [vungle.com]
+0.0.0.0 ads.api.vungle.com
+0.0.0.0 api.vungle.com
+0.0.0.0 vungle.com
+0.0.0.0 config.ads.vungle.com
+
+# [supersonicads.com]
+0.0.0.0 init.supersonicads.com
+0.0.0.0 supersonicads.com
+
+# [unity3d.com]
+0.0.0.0 cdp.cloud.unity3d.com
+0.0.0.0 config.uca.cloud.unity3d.com
+0.0.0.0 configv2.unityads.unity3d.com
+0.0.0.0 unityads.unity3d.com
+0.0.0.0 config.unityads.unity3d.com
+
+# [mintegral.com]
+0.0.0.0 mintegral.net
+0.0.0.0 mintegral.com
+0.0.0.0 pok.mintegral.net
+
+# [bidease.com]
+0.0.0.0 bidease.com
+0.0.0.0 creative.bidease.com
+
+# [psvgamestudio.com]
+0.0.0.0 psvpromo.psvgamestudio.com
+
+# [twitter.com]
+0.0.0.0 ads-api.twitter.com
+0.0.0.0 ads-twitter.com
+0.0.0.0 advertising.twitter.com
+0.0.0.0 analytics.twitter.com
+0.0.0.0 static.ads-twitter.com
+
+# [mobileapptracking.com]
+0.0.0.0 deeplink.mobileapptracking.com
+0.0.0.0 mobileapptracking.com
+0.0.0.0 engine.mobileapptracking.com
+
+# [popcap.com]
+0.0.0.0 draper.popcap.com
+0.0.0.0 stats.popcap.com
+
+# [appbaqend.com]
+0.0.0.0 appbaqend.com
+0.0.0.0 a.appbaqend.com
+0.0.0.0 www.appbaqend.com
+
+# [zaycev.net]
+0.0.0.0 applog.zaycev.net
+0.0.0.0 rttr2.zaycev.net
+
+# [mts.ru]
+0.0.0.0 msdk.rtb.mts.ru
+0.0.0.0 mtsopros.mts.ru
+
+# [dynamicyield.com]
+0.0.0.0 st-eu.dynamicyield.com
+
+# [yadro.ru]
+0.0.0.0 counter.yadro.ru
+0.0.0.0 www.yadro.ru
+
+# [pubnative.net]
+0.0.0.0 pubnative.info
+0.0.0.0 pubnative.net
+0.0.0.0 api.pubnative.net
+
+# [ziffdavis.com]
+0.0.0.0 m.optout.ziffdavis.com
+0.0.0.0 ziffdavis.com
+
+# [qonversion.io]
+0.0.0.0 qonversion.io
+
+# [isnssdk.com]
+0.0.0.0 i.isnssdk.com
+0.0.0.0 isnssdk.com
+0.0.0.0 mon.isnssdk.com
+
+# [media.net]
+0.0.0.0 adservetx.media.net
+0.0.0.0 media.net
+0.0.0.0 static.media.net
+
+# [mouseflow.com]
+0.0.0.0 a.mouseflow.com
+0.0.0.0 mouseflow.com
+
+# [bugsnag.com]
+0.0.0.0 api.bugsnag.com
+0.0.0.0 app.bugsnag.com
+0.0.0.0 bugsnag.com
+0.0.0.0 notify.bugsnag.com
+0.0.0.0 sessions.bugsnag.com
+
+# [yahoo.com]
+0.0.0.0 ads.yahoo.com
+0.0.0.0 ads.yap.yahoo.com
+0.0.0.0 analytics.yahoo.com
+0.0.0.0 global.adserver.yahoo.com
+
+# [appnext.com]
+0.0.0.0 appnext.com
+0.0.0.0 cdn.appnext.com
+
+# [fingersoft.net]
+0.0.0.0 ads3.fingersoft.net
+
+# [apkpure.net]
+0.0.0.0 t.apkpure.net
+
+# [franecki.net]
+0.0.0.0 franecki.net
+0.0.0.0 franeski.net
+
+# [imrworldwide.com]
+0.0.0.0 imrworldwide.com
+0.0.0.0 secure-sts-prod.imrworldwide.com
+
+# [digitaltarget.ru]
+0.0.0.0 digitaltarget.ru
+0.0.0.0 dmg.digitaltarget.ru
+0.0.0.0 tag.digitaltarget.ru
+
+# [ozon.ru]
+0.0.0.0 xapi.ozon.ru
+
+# [braze.com]
+0.0.0.0 sdk.iad-01.braze.com
+0.0.0.0 braze.com
+
+# [soundcloud.com]
+0.0.0.0 telemetry.soundcloud.com
+0.0.0.0 promoted.soundcloud.com
+
+# [appboy.com]
+0.0.0.0 serpens.iad.appboy.com
+0.0.0.0 appboy.com
+
+# [segment.com]
+0.0.0.0 segment.com
+0.0.0.0 cdn-settings.segment.com
+
+# [buzzoola.com]
+0.0.0.0 exchange.buzzoola.com
+0.0.0.0 buzzoola.com
+
+# [instabug.com]
+0.0.0.0 www.instabug.com
+0.0.0.0 api.instabug.com
+0.0.0.0 instabug.com
+
+# [iobit.com]
+0.0.0.0 ascstats.iobit.com
+0.0.0.0 stats.iobit.com
+
+# [aj1907.online]
+0.0.0.0 aj1907.online
+0.0.0.0 aj1090.online
+0.0.0.0 aj1549.online
+0.0.0.0 aj1616.online
+0.0.0.0 aj2377.online
+0.0.0.0 aj1058.online
+0.0.0.0 aj1433.online
+0.0.0.0 aj1713.online
+0.0.0.0 aj1834.online
+0.0.0.0 aj1860.online
+0.0.0.0 aj1939.online
+0.0.0.0 aj2021.online
+0.0.0.0 aj2113.online
+0.0.0.0 aj2171.online
+0.0.0.0 aj2178.online
+0.0.0.0 aj2204.online
+0.0.0.0 aj2313.online
+0.0.0.0 aj2345.online
+0.0.0.0 aj2392.online
+0.0.0.0 aj2396.online
+0.0.0.0 aj2550.biz
+
+# [weborama.fr]
+0.0.0.0 wcm-ru.frontend.weborama.fr
+0.0.0.0 weborama.fr
+
+# [admost.com]
+0.0.0.0 admost.com
+0.0.0.0 cdn-api.admost.com
+0.0.0.0 med-api.admost.com
+
+# [myadsget.com]
+0.0.0.0 myadsget.com
+0.0.0.0 api.myadsget.com
