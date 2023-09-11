@@ -590,3 +590,8 @@
 # [myadsget.com]
 0.0.0.0 myadsget.com
 0.0.0.0 api.myadsget.com
+
+# [kinoplay]
+0.0.0.0 videohead.adspeed.net
+0.0.0.0 swamp.alloeclub.com
+0.0.0.0 ads-matresh.ru
