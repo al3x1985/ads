@@ -438,7 +438,6 @@
 0.0.0.0    de.letmejerk7.com
 0.0.0.0    definitionupdates.microsoft.com
 0.0.0.0    deliver.ptgncdn.com
-0.0.0.0    delivery-partners.wildberries.ru
 0.0.0.0    delivery.hunterycity.com
 0.0.0.0    departurealtar.com
 0.0.0.0    des.gbtcdn.com
@@ -884,7 +883,6 @@
 0.0.0.0    maps.mail.ru
 0.0.0.0    margarinereverend.com
 0.0.0.0    marketgameframes.com
-0.0.0.0    marketing-info.wildberries.ru
 0.0.0.0    mars.gamegamb.com
 0.0.0.0    match.new-programmatic.com
 0.0.0.0    matchid.adfox.yandex.ru
