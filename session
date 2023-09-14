@@ -1,0 +1,13 @@
+{
+  "max-count":1,
+  "cisco":{
+    "dead00a47a9b1177e259bd84dff3bd50651df76f61c20139e5b86d6d4bafd2e8":{
+      "user":"cisco",
+      "group":"admin",
+      "time":2433831,
+      "access":1,
+      "timeout":1800,
+      "leasetime":13118911
+    }
+  }
+}
